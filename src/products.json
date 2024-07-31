@@ -1,0 +1,82 @@
+[
+{
+    "id":1,
+    "title":"DNK Shoes",
+    "url":"shoe.png",
+    "price":200,
+    "gender":"Men",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},
+{
+    "id":2,
+    "title":"DNK Jeans",
+    "url":"jeans.png",
+    "price":500,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+
+},
+{
+    "id":3,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},
+{
+    "id":4,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},
+{
+    "id":5,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},{
+    "id":6,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},
+{
+    "id":7,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},
+{
+    "id":8,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},
+{
+    "id":9,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+},
+{
+    "id":10,
+    "title":"DNK glasses",
+    "url":"jeans.png",
+    "price":150,
+    "gender":"Women",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni pariatur suscipit voluptates voluptate eos asperiores aperiam itaque, quaerat ullam molestiae excepturi sed eligendi quae nam consectetur blanditiis, porro expedita? Id!"
+}
+]
